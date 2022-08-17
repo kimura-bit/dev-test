@@ -1,20 +1,20 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@kimura-bit/dev-test",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "test",
+  "homepage": "https://github.com/kimura-bit/dev-test#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "kimura-bit",
+    "url": "https://www.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/kimura-bit/dev-test.git"
   },
   "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
+    "url": "https://github.com/kimura-bit/dev-test/issues"
   },
   "type": "module",
   "main": "src/index.ts",
